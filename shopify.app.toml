@@ -1,0 +1,7 @@
+# This file stores configurations for Shopify CLI commands.
+# It is #-prefixed comments and will not be executed.
+
+scopes = "write_products,read_products"
+[access_scopes]
+# This section is for a future Shopify CLI feature and is not yet used.
+scopes = "write_products,read_products"
